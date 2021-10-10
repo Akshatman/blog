@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(145, 144, 144, 0.705);
+    
+}
+.start{
+    display: flex;
+    justify-content: right;
+margin: 1.5vw 2.3vw;}
+.p{
+    background-color: rgb(68, 62, 62);
+    
+    padding: 7px;
+border-radius: 4px;
+margin: 6px;
+Color: white;
+font-size: 15px;
+font-weight: bold;
+cursor: pointer;
+}
+.p:hover{
+    color: cyan;
+}
+
+input{
+    border-radius: 4px;
+width: 10vw;
+text-align: center;
+margin: 4px;
+padding: 7px;
+}
+.search{
+    height: 38px;
+    margin: 4.5px 0px 4.5px 0px;
+    border-radius: 4px;
+}
+.heading{
+    font-family: 'Noto Sans Display', sans-serif;
+    font-size: xxx-large;
+    font-weight: bold;
+margin: 0px 46px;
+}
+.idea{
+    display: flex;
+justify-content: right;
+margin: 0vw 2.3vw;
+}
+.ideas{
+    background: white;
+margin: 2px;
+font-weight: bold;
+display: flex;
+padding: 5px 10px 5px 5px;
+
+}
+.rank{
+    color: rgb(72, 95, 170);
+    font-size: 20px;
+    
+    position: relative;
+    bottom: 3px;
+    left: 4px;
+}
+.card{
+    margin: 0px 38px;
+}
+header{
+    display: flex;
+justify-content: center;
+background-color: rgb(68, 62, 62);
+height: 43px;
+align-items: center;   
+border-radius: 4px;
+}
+.menu{
+    background: rgb(46, 42, 42);
+padding: 7px 4px;
+border-radius: 3px;
+margin: 0 5px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+font-size: 15px;
+cursor: pointer;
+}
+.com{
+    margin: 6px;
+height: 9px;
+background: rgba(240, 248, 255, 0.726);
+border-radius: 4px;
+border: none;
+}
+.box{
+    margin: 6px;
+    display: flex;
+    padding: 15px;
+    background: rgba(209, 156, 143, 0.726);
+}
+.cards2{
+    
+        display: flex;
+        
+margin: 20px;
+
+    }
+    .ice{
+        width: 359px;
+    }
+.op{
+    opacity: 57%;
+}
+.box2{
+    margin: 6px;
+}
+.maza{
+    width: 82vw;
+}
+footer{
+    background-color: rgb(68, 62, 62);
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.foot{
+    display: flex;
+justify-content: center;
+padding: 11px;
+
+}
+.menu1{
+    padding: 7px 4px;
+border-radius: 3px;
+margin: 0 5px;
+font-weight: bold;
+
+color: white;
+font-size: 15px;
+}
+.fol{
+    text-align: center;
+}
+.btn{
+    border-radius: 97px;
+height: 75px;
+width: 78px;
+
+font-weight: bold;
+}
+.menu:hover{
+    color: cyan;
+}
+.menu1:hover{
+    color: cyan;
+}
+.btn:hover{
+    color: cyan;
+}
+
+
+main{
+    margin: 30px 60px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+}
+.barf{
+    float: right;
+}
+.left{
+    float: left;
+    
+}
+h1{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
